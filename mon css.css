@@ -1,0 +1,284 @@
+*{
+    margin: unset;
+    text-decoration: unset;
+}
+#p1{
+    background-color: red;
+    position: fixed;
+    padding: 15px 15px;
+    width: 100%;
+}
+.navigateur{
+    display: flex;
+    justify-content: space-between;
+    margin: 0px 30px;
+}
+li{
+    display: inline-block;
+    margin: 0px 20px;
+}
+a{
+    color: white;
+}
+#por1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.5em;
+    color: white;
+}
+#por2{
+    font-size: 1.5em;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+#p2{
+    background-image: url("https://ar.hibapress.com/wp-content/uploads/2019/03/KKP.jpg");
+    background-size: contain;
+    height: 700px;
+    background-repeat: no-repeat;
+}
+#enfant1{
+    color: white;
+    font-size: 2.5em;
+    padding: 200px 100px;
+}
+#nom{
+    color: aqua;
+}
+#prog1{
+    color: red;
+    text-transform: uppercase;
+}
+#monprofile{
+    width: 350px;
+    height: 370px;
+}
+#enfant2{
+    display: flex;
+    margin-left:100px ;
+    padding-top: 50px;
+    padding-bottom: 250px;
+}
+#mot{
+    padding: 50px 70px;
+}
+#moi1{
+    color: red;
+    text-decoration: underline;
+    text-align: center;
+    font-size: 2em;
+}
+#btn1{
+    width: 150px;
+    height: 70px;
+    border-radius: 12px;
+    background-color: red;
+    border: aqua inset;
+    color: white;
+    font-size: 1.5rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 150px;
+}
+#ici1{
+    text-transform: uppercase;
+    color: rgb(15, 164, 201);
+}
+#btn21{
+    align-items: center;
+    width:200px;
+    height: 70px;
+    border-radius: 12px;
+    background-color:rgb(159, 181, 196);
+    border: aqua inset 3px;
+    color: white;
+    font-size: 1rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-transform: uppercase;
+    margin-left: 100px;
+    margin-top: 50px;
+}
+#btn21:hover{
+    background-color: red;
+}
+#mot p{
+    font-size: 1.5rem;
+}
+#grand1{
+    display: flex;
+}
+#parent1{
+    width: 250px;
+    height: 210px;
+    margin-left: 70px;
+    background-color: rgba(40, 43, 41, 0.726);
+}
+#parent2{
+    width: 250px;
+    height: 210px;
+    margin-left: 70px;
+    background-color: rgba(40, 43, 41, 0.726);
+}
+#parent3{
+    width: 250px;
+    height: 210px;
+    margin-left: 70px;
+    background-color: rgba(40, 43, 41, 0.726);
+}
+#about1{
+    color: white;
+    font-size: 1.5em;
+    margin-left: 470px;
+    margin-bottom: 100px;
+    padding-top: 40px;
+    text-decoration: underline red;
+}
+.gra1{
+    padding-bottom: 50px;
+    background-color: black;
+}
+#designe1{
+    font-size: 1.5em;
+    color: red;
+    margin-left:80px;
+}
+#designe2{
+    font-size: 1.5em;
+    color: red;
+    margin-left: 15px;
+}
+#designe3{
+    font-size: 1.5em;
+    color: red;
+    margin-left: 60px;
+}
+#de{
+    padding: 0px 20px;
+}
+#de1{
+    padding: 0px 20px;
+    text-transform: uppercase;
+    text-align: center;
+}
+#de15{
+    padding: 0px 20px;
+    text-align: center;
+}
+#de20{
+    padding: 0px 20px;
+    text-align: center;
+}
+#de2{
+    padding: 0px 20px;
+}
+#gra2{
+    display: flex;
+}
+#gra121{
+    margin: 40px auto;
+}
+#log11{
+    width: 250px;
+    height: 220px;
+    margin-left: 70px;
+    background-color: rgba(40, 43, 41, 0.726);
+}
+#parent21{
+    width: 250px;
+    height: 220px;
+    margin-left: 70px;
+    background-color: rgba(40, 43, 41, 0.726);
+}
+#parent31{
+    width: 250px;
+    height: 220px;
+    margin-left: 70px;
+    background-color: rgba(40, 43, 41, 0.726);
+}
+#photo{
+    border-radius: 40px 40px;
+    width: 70px;
+    height: 70px;
+    margin-left: 90px;
+}
+#team1{
+    color: black;
+    font-size: 1.5em;
+    text-decoration: underline red;
+    margin-left: 500px;
+}
+#what1{
+    margin-left: 500px;
+    margin-bottom: 100px;
+    color: red;
+    font-size: 1em;
+}
+#gra122{
+    margin: 40px auto;
+}
+#gra21{
+    display: flex;
+}
+#part1{
+    width: 400px;
+    height: 200px;
+    margin-left: 100px;
+}
+#part1 p1{
+    font-weight: bold;
+    text-decoration: underline red;
+    text-transform: uppercase;
+    margin-left: 80px;
+}
+#part3 span{
+    display: inline;
+    margin-left: 150px;
+}
+#part3{
+    display: flex;
+}
+#part4{
+    margin-top: 16px;
+    margin-right: 100px;
+}
+#textarea1{
+    margin-top: 20px;
+}
+#btn{
+    background-color: red;
+    width: 100px;
+    height: 40px;
+    border-radius: 20px;
+}
+/*logo du bas*/
+
+.fa-user{
+    color: red;
+    font-size: 1.5em;
+}
+.fa-location-dot{
+    color:red;
+    font-size:1.5em;
+}
+.fa-envelope{
+        color: red;
+        font-size: 1.5em;
+}
+.fa-paintbrush{
+    color: red;
+    font-size:2em;
+    margin-left:110px;
+}
+.fa-code{
+    color: red;
+    font-size:2em;
+    margin-left:110px;
+}
+.fa-arrow-trend-up{
+    color: red;
+    font-size:2em;
+    margin-left:110px;
+}
+#retour{
+    color: black;
+    font-size: 2em;
+    text-align: left;
+}
